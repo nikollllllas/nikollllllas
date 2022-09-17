@@ -5,7 +5,7 @@
 - 📫 Contato: nikollasohta2014@gmail.com
 
 <div>
-  <a href="https://github.io/nikollllllas">
+  <a href="https://github.com/nikollllllas">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=nikollllllas&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikollllllas&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
