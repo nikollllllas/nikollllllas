@@ -1,6 +1,6 @@
 ### Olá! Sou o Nikollas!
 
-- 🔭 Atualmente sou estagiário no setor de Informação em Saúde da Secretaria Municipal de Saúde.
+- 🔭 Atualmente sou estagiário no setor de Informação em Saúde da Secretaria Municipal de Saúde de Umuarama.
 - 🌱 Estudando HTML, CSS e JS.
 - 📫 Contato: nikollasohta2014@gmail.com
 
