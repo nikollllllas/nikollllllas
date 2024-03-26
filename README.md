@@ -4,10 +4,12 @@
 - 🌱 Estudando JavaScript, Typescript React e NodeJS!
 - 📫 Contato: nikollasohta2014@gmail.com
 
+<!---
 <div>
   <img height="130rem" src="https://github-readme-stats.vercel.app/api?username=nikollllllas&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
   <img height="130rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikollllllas&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
+--->
 
 ## Conhecimentos em:
 ##### Front-end:
