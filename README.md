@@ -1,7 +1,7 @@
 ## Muito prazer! Meu nome é Nikollas!
 
-- 🔭 Atualmente sou estagiário em desenvolvimento front-end na <a href="https://www.linkedin.com/company/ecode-digital/" target="_blank">e/Code</a>.
-- 🌱 Estudando Typescript, NextJS, NestJS e Fluter!
+- 🔭 Atualmente sou desenvolvedor front-end na <a href="https://www.linkedin.com/company/ecode-digital/" target="_blank">e/Code</a>.
+- 🌱 Estudando Typescript, NextJS, NestJS e Flutter!
 - 📫 Contato: nikollasmatsuoohta@gmail.com
 
 <!---
